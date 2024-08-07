@@ -3,6 +3,12 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
+      "name": "tang",
+      "api": "hhttps://tang.hz.cz/api/user?token=60885e87",
+      "type": 3,
+      "ua": "okhttp/4.12.0"
+    },
+    {
       "key": "商店",
       "name": "商店",
       "type": 3,
