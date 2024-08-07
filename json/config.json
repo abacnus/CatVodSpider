@@ -4,7 +4,7 @@
   "sites": [
     {
       "name": "tang",
-      "api": "hhttps://tang.hz.cz/api/user?token=60885e87",
+      "api": "https://tang.hz.cz/api/user?token=60885e87",
       "type": 3,
       "ua": "okhttp/4.12.0"
     },
